@@ -1,4 +1,4 @@
-需要先install oss-mentor-bot，再去http://github.zhangqx.com/umlrenderer/github/WeiZhang418/blockchain-tutorial?path=tryuml.uml"
+需要先install oss-mentor-bot，再去http://github.zhangqx.com/umlrenderer/github/WeiZhang418/blockchain-tutorial?path=tryuml.uml
 
 @startuml
 用户 -> 认证中心: 登录操作
